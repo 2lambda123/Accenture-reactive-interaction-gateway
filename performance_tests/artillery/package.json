@@ -4,7 +4,7 @@
   "description": "",
   "main": "utils.js",
   "dependencies": {
-    "artillery": "^2.0.5",
+    "artillery": "^2.0.10",
     "eventsource": "^2.0.2"
   },
   "scripts": {
